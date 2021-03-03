@@ -1,0 +1,28 @@
+{
+  "name": "miwebsite01",
+  "version": "1.0.0",
+  "description": "Mi web site personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1.js",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvictorml/miWebSite01.git"
+  },
+  "keywords": [
+    "sitio",
+    "web",
+    "personal"
+  ],
+  "author": "Ing Victor Ml Nuñez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvictorml/miWebSite01/issues"
+  },
+  "homepage": "https://github.com/ingvictorml/miWebSite01#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
