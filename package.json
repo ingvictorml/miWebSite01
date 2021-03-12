@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test1.js",
-    "dev": "lite-server"
+    "dev": "lite-server",
+    "serverRun": "miServer.js"
   },
   "repository": {
     "type": "git",
