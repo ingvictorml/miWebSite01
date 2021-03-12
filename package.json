@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ingvictorml/miWebSite01#readme",
   "dependencies": {
+    "jshint": "^2.12.0",
     "lite-server": "^2.6.1"
   }
 }
